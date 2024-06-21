@@ -45,20 +45,20 @@ Writing a literature review for my thesis is so painful... Let me create a git r
 
 ### Dynamic Analysis 
 - Lehmann, Daniel, and Michael Pradel. ["Wasabi: A framework for dynamically analyzing webassembly."](https://arxiv.org/pdf/1808.10652), ASPLOS, 2019.
-- Fu, William, Raymond Lin, and Daniel Inge. ["Taintassembly: Taint-based information flow control tracking for webassembly."], arXiv preprint, 2018.
-
+- Fu, William, Raymond Lin, and Daniel Inge. ["Taintassembly: Taint-based information flow control tracking for webassembly."](https://arxiv.org/pdf/1802.01050), arXiv preprint, 2018.
+- 
 ### SAST
 - Chen, Weimin, et al. ["Wasai: uncovering vulnerabilities in wasm smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218), ISSTA, 2022.
 - Brito, Tiago, et al. ["Wasmati: An efficient static vulnerability scanner for WebAssembly."](https://www.sciencedirect.com/science/article/pii/S0167404822001407) Computers & Security, 2022.
 - He, Ningyu, et al. ["EOSAFE: Security analysis of EOSIO smart contracts."](https://www.usenix.org/system/files/sec21-he-ningyu.pdf), USENIX Security, 2021.
 - Lopes, Pedro Daniel Rogeiro. ["Discovering vulnerabilities in webassembly with code property graphs."](https://syssec.dpss.inesc-id.pt/projects/tr-wasmati.pdf), Técnico Lisboa, 2021.
-- Stiévenart, Quentin, and Coen De Roover. ["Compositional information flow analysis for WebAssembly programs."], SCAM, 2020.
+- Stiévenart, Quentin, and Coen De Roover. ["Compositional information flow analysis for WebAssembly programs."](https://cris.vub.be/ws/files/75991494/informationflow_copyright.pdf), SCAM, 2020.
 
 ### Obfuscation and Detection Evasion
 - Harnes H, Morrison D. ["Cryptic Bytes: WebAssembly Obfuscation for Evading Cryptojacking Detection"](https://arxiv.org/pdf/2403.15197), arXiv preprint, 2024.
 - Cao, Shangtong, et al. ["WASMixer: Binary Obfuscation for WebAssembly"](https://arxiv.org/pdf/2308.03123), ESORICS, 2024
 - Cabrera-Arteaga, Javier, et al. ["WebAssembly diversification for malware evasion."](https://www.sciencedirect.com/science/article/pii/S0167404823002067), Computers & Security, 2023.
-- Loose, Nils, et al. ["Madvex: Instrumentation-Based Adversarial Attacks on Machine Learning Malware Detection."], DIMVA, 2023.
+- Loose, Nils, et al. ["Madvex: Instrumentation-Based Adversarial Attacks on Machine Learning Malware Detection."](https://arxiv.org/pdf/2305.02559), DIMVA, 2023.
 - Bhansali, Shrenik, et al. ["A first look at code obfuscation for webassembly."](https://dl.acm.org/doi/pdf/10.1145/3507657.3528560), WiSec, 2022.
   
 ### Malware Detection
