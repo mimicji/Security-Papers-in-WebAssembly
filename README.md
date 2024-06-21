@@ -23,6 +23,7 @@ Writing a literature review for my thesis is so painful... Let me create a git r
 
 ## SoK, Empirical Study, and Survey
 - Harnes, Håkon, and Donn Morrison. ["SoK: Analysis Techniques for WebAssembly."](https://www.mdpi.com/1999-5903/16/3/84/pdf), Future Internet, 2024.
+- `Runtime` Wang, Yue, et al. ["A Comprehensive Study of WebAssembly Runtime Bugs."](https://ieeexplore.ieee.org/abstract/document/10123536), SANER, 2023.
 - Hilbig, Aaron, Daniel Lehmann, and Michael Pradel. ["An empirical study of real-world webassembly binaries: Security, languages, use cases."](https://www.software-lab.org/publications/www2021.pdf), WWW, 2021.
 - `Compiler` Romano, Alan, et al. ["An empirical study of bugs in webassembly compilers."](https://par.nsf.gov/servlets/purl/10312862), ASE, 2021.
 - Lehmann, Daniel, Johannes Kinder, and Michael Pradel. ["Everything old is new again: Binary security of WebAssembly."](https://www.usenix.org/system/files/sec20-lehmann.pdf), USENIX Security, 2020.
@@ -85,6 +86,7 @@ Writing a literature review for my thesis is so painful... Let me create a git r
 ## WASM Runtime and Compiler
 
 ### SFI
+- VanHattum, Alexa, et al. ["Lightweight, Modular Verification for WebAssembly-to-Native Instruction Selection."](https://cs.wellesley.edu/~avh/veri-isle-preprint.pdf), ASPLOS, 2024.
 - `PKUWA` `MPK` `Runtime` Lei, Hanwen, et al. ["Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications."](https://dl.acm.org/doi/pdf/10.1145/3576915.3623205), CCS, 2023.
 - `Runtime` Johnson, Evan, et al. ["WaVe: a verifiably secure WebAssembly sandboxing runtime."](https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2023:wave.pdf), S&P, 2023.
 - Kolosick, Matthew, et al. ["Isolation without taxation: near-zero-cost transitions for webassembly and sfi."](https://dl.acm.org/doi/pdf/10.1145/3498688), POPL, 2022.
@@ -96,6 +98,9 @@ Writing a literature review for my thesis is so painful... Let me create a git r
 - Han, Jideng, et al. ["ESFuzzer: An Efficient Way to Fuzz WebAssembly Interpreter."](https://www.mdpi.com/2079-9292/13/8/1498), Electronics, 2024
 - `Efficiency` `WarpDif` Jiang, Shuyao, et al. ["Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing."](https://arxiv.org/pdf/2309.12167), ASE, 2023.
 - Zhou, Shiyao, et al. ["WADIFF: A Differential Testing Framework for WebAssembly Runtimes."](https://ieeexplore.ieee.org/abstract/document/10298359), ASE, 2023.
+- Cao, Shangtong, et al. ["WRTester: Differential Testing of WebAssembly Runtimes via Semantic-aware Binary Generation."](https://arxiv.org/html/2312.10456v1), arXiv preprint, 2023.
+- Jiang, Bo, et al. ["Wasmfuzzer: A fuzzer for webassembly virtual machines."](https://ksiresearch.org/seke/seke22paper/paper165.pdf), SEKE, 2022.
+
 
 ### SAST for Runtimes
 - Zhang, Yixuan, et al. ["Characterizing and detecting webassembly runtime bugs."](https://arxiv.org/pdf/2301.12102), TSEM, 2023.
