@@ -1,5 +1,5 @@
 # Security Papers in WebAssembly
-Writing a literature review for my thesis is so painful... Let me create a git repo to organize these papers. We thank [Jianing](https://wasm.jianing.wang/#/papers) for the paper list.
+Writing a literature review for my thesis is so painful... Let me create a git repo to organize these papers. Thank [Jianing](https://wasm.jianing.wang/#/papers) for the initial paper list.
 
 ## Table of contents
 - [Security-Papers-in-WebAssembly](#security-papers-in-webassembly)
