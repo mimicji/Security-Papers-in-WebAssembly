@@ -88,7 +88,7 @@ Organizing a literature review for my thesis has been challenging. To streamline
 ## WASM Runtime and Compiler
 
 ### SFI
-- VanHattum, Alexa, et al. ["Lightweight, Modular Verification for WebAssembly-to-Native Instruction Selection."](https://cs.wellesley.edu/~avh/veri-isle-preprint.pdf), ASPLOS, 2024.
+- `Crocus` VanHattum, Alexa, et al. ["Lightweight, Modular Verification for WebAssembly-to-Native Instruction Selection."](https://cs.wellesley.edu/~avh/veri-isle-preprint.pdf), ASPLOS, 2024.
 - `PKUWA` `MPK` `Runtime` Lei, Hanwen, et al. ["Put Your Memory in Order: Efficient Domain-based Memory Isolation for WASM Applications."](https://dl.acm.org/doi/pdf/10.1145/3576915.3623205), CCS, 2023.
 - `Runtime` Johnson, Evan, et al. ["WaVe: a verifiably secure WebAssembly sandboxing runtime."](https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2023:wave.pdf), S&P, 2023.
 - Kolosick, Matthew, et al. ["Isolation without taxation: near-zero-cost transitions for webassembly and sfi."](https://dl.acm.org/doi/pdf/10.1145/3498688), POPL, 2022.
