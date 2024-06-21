@@ -47,7 +47,7 @@ Writing a literature review for my thesis is so painful... Let me create a git r
 ### Dynamic Analysis 
 - Lehmann, Daniel, and Michael Pradel. ["Wasabi: A framework for dynamically analyzing webassembly."](https://arxiv.org/pdf/1808.10652), ASPLOS, 2019.
 - Fu, William, Raymond Lin, and Daniel Inge. ["Taintassembly: Taint-based information flow control tracking for webassembly."](https://arxiv.org/pdf/1802.01050), arXiv preprint, 2018.
-- 
+
 ### SAST
 - Chen, Weimin, et al. ["Wasai: uncovering vulnerabilities in wasm smart contracts."](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218), ISSTA, 2022.
 - Brito, Tiago, et al. ["Wasmati: An efficient static vulnerability scanner for WebAssembly."](https://www.sciencedirect.com/science/article/pii/S0167404822001407) Computers & Security, 2022.
