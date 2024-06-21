@@ -1,5 +1,7 @@
 # Security Papers in WebAssembly
-Writing a literature review for my thesis is so painful... Let me create a git repo to organize these papers. Thank [Jianing](https://wasm.jianing.wang/#/papers) for the initial paper list.
+This repository contains a curated collection of research papers on security topics related to WebAssembly, sourced from top-tier Software Engineering and Security conferences. The aim is to ensure comprehensive coverage of significant publications in the field.
+
+Organizing a literature review for my thesis has been challenging. To streamline the process, I've created this repository to categorize relevant papers. Special thanks to [Jianing](https://wasm.jianing.wang/#/papers) for providing the initial list of papers.
 
 ## Table of contents
 - [Security-Papers-in-WebAssembly](#security-papers-in-webassembly)
