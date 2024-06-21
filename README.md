@@ -74,7 +74,7 @@ Writing a literature review for my thesis is so painful... Let me create a git r
 
 
 ### Slicing
-- Stiévenart, Quentin, David W. Binkley, and Coen De Roover. ["Static stack-preserving intra-procedural slicing of webassembly binaries.](http://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-04.pdf), ICSE, 2022.
+- Stiévenart, Quentin, David W. Binkley, and Coen De Roover. ["Static stack-preserving intra-procedural slicing of webassembly binaries."](http://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-04.pdf), ICSE, 2022.
 
 ### Rewriting
 - Cao, Shangtong, et al. ["A General Static Binary Rewriting Framework for WebAssembly."](https://arxiv.org/pdf/2305.01454), SAS, 2023.
